@@ -1,6 +1,7 @@
 public class recursion {
     public static void main(String[] args) {
-        printno(5);
+  printno(5);
+
 
 
     }
@@ -13,4 +14,7 @@ public class recursion {
         System.out.println(n);
 
    }
+
+
+
 }
